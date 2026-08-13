@@ -24,14 +24,14 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 ## 📊 Key Visualizations & Findings
 
 ### 1. Top 5 Vehicle Makes
-![Top 5 Vehicle Makes](images/top_5_make.png)
+![Top 5 Vehicle Makes](images/top5-make.png)
 * **Chart Type:** Bar Chart
 * **Insight:** Identifies the most frequent vehicle brands in the market (Ford, Chevrolet, Nissan, Toyota, Dodge). `Ford` leads the market in overall listings.
 
 ---
 
 ### 2. Regional Sales Distribution (Top 5 States)
-![Top 5 State Sales](images/top_5_states.png)
+![Top 5 State Sales](images/top5-stateSales.png)
 * **Chart Type:** Bar Chart
 * **Insight:** Highlights top sales regions (`FL`, `CA`, `PA`, `TX`, `GA`), with Florida and California showing the highest sales volumes.
 
@@ -54,14 +54,14 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 ---
 
 ### 5. Distribution of Vehicle Selling Prices
-![Distribution of Vehicle Selling Prices](images/price_distribution.png)
+![Distribution of Vehicle Selling Prices](images/distributionVehicle.png)
 * **Chart Type:** Histogram
 * **Insight:** Shows a right-skewed price distribution, indicating that the majority of vehicles are sold within the $0 – $30,000 price range.
 
 ---
 
 ### 6. Market Share by Vehicle Color
-![Market Share by Vehicle Color](images/color_market_share.png)
+![Market Share by Vehicle Color](images/top10-color.png)
 * **Chart Type:** Pie Chart
 * **Insight:** Neutral colors dominate market share: **Black (21.4%)**, **White (20.5%)**, **Silver (16.1%)**, and **Gray (15.9%)**.
 
