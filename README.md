@@ -28,14 +28,14 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 * **Chart Type:** Bar Chart
 * **Insight:** Identifies the most frequent vehicle brands in the market (Ford, Chevrolet, Nissan, Toyota, Dodge). `Ford` leads the market in overall listings.
 
----
+----
 
 ### 2. Regional Sales Distribution (Top 5 States)
 ![Top 5 State Sales](images/top5-stateSales.png)
 * **Chart Type:** Bar Chart
 * **Insight:** Highlights top sales regions (`FL`, `CA`, `PA`, `TX`, `GA`), with Florida and California showing the highest sales volumes.
 
----
+----
 
 ### 3. Feature Correlation Matrix
 ![Correlation Matrix](images/correlation_matrix.png)
@@ -44,14 +44,14 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
   * Strong positive correlation (**0.98**) between `sellingprice` and `mmr` (Manheim Market Report value).
   * Moderate negative correlation (**-0.58**) between `odometer` and `sellingprice` (higher mileage decreases sale price).
 
----
+----
 
 ### 4. Price Trend by Model Year
 ![Price Trend by Model Year](images/price_trend.png)
 * **Chart Type:** Line Plot
 * **Insight:** Demonstrates a significant upward trend in average selling prices for newer models, particularly those manufactured post-2010.
 
----
+----
 
 ### 5. Distribution of Vehicle Selling Prices
 ![Distribution of Vehicle Selling Prices](images/distributionVehicle.png)
@@ -65,14 +65,14 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 * **Chart Type:** Pie Chart
 * **Insight:** Neutral colors dominate market share: **Black (21.4%)**, **White (20.5%)**, **Silver (16.1%)**, and **Gray (15.9%)**.
 
----
+----
 
 ### 7. Mileage Impact on Price (Selling Price vs. Odometer)
 ![Selling Price vs. Odometer](images/price_vs_odometer.png)
 * **Chart Type:** Scatter Plot
 * **Insight:** Visualizes the depreciation curve—vehicles with low mileage retain higher values, while prices stabilize at lower points as mileage exceeds 100k miles.
 
----
+----
 
 ## 💡 Business Takeaways
 
