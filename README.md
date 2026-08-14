@@ -2,7 +2,7 @@
 
 This project was developed as part of the **CodeAlpha Data Analytics Internship** program. The main goal of this task is to transform raw vehicle sales data (`car_prices.csv`) into meaningful visual representations using Python libraries, uncover market trends, and deliver data-driven insights.
 
----
+----
 
 ## 📌 Project Objectives
 
@@ -11,7 +11,7 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 * Analyze relationships between vehicle sales price, odometer mileage, manufacture year, and make.
 * Build a compelling data story to support business decision-making.
 
----
+----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -19,7 +19,7 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 * **Pandas** — Data manipulation and aggregation
 * **Matplotlib** — Data visualization and layout customization
 
----
+----
 
 ## 📊 Key Visualizations & Findings
 
@@ -58,7 +58,7 @@ This project was developed as part of the **CodeAlpha Data Analytics Internship*
 * **Chart Type:** Histogram
 * **Insight:** Shows a right-skewed price distribution, indicating that the majority of vehicles are sold within the $0 – $30,000 price range.
 
----
+----
 
 ### 6. Market Share by Vehicle Color
 ![Market Share by Vehicle Color](images/top10-color.png)
