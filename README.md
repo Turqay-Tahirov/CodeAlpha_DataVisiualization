@@ -1,4 +1,4 @@
-# 🚗 Task 3: Vehicle Sales Data Visualization
+# Task 3: Vehicle Sales Data Visualization
 
 This project was developed as part of the **CodeAlpha Data Analytics Internship** program. The main goal of this task is to transform raw vehicle sales data (`car_prices.csv`) into meaningful visual representations using Python libraries, uncover market trends, and deliver data-driven insights.
 
